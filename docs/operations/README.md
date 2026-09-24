@@ -2,6 +2,10 @@
 
 Runbooks and operational notes for running Mission Control.
 
+## Runbooks
+
+- [Mission contracts and proof of work](./mission-contracts-and-proof.md) — run an agent fleet so every mission carries an owner, a reviewer and observable proof.
+
 ## Health checks
 
 Backend exposes:
